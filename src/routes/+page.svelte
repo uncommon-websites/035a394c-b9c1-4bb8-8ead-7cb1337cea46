@@ -16,7 +16,14 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by leading African businesses"
+	logoUrls={[
+		'https://logo.clearbit.com/dangote.com',
+		'https://logo.clearbit.com/compass-group.com',
+		'https://logo.clearbit.com/maersk.com'
+	]}
+/>
 
 <Summary
 	generating
